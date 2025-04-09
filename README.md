@@ -51,7 +51,7 @@ This project is documented in the following research paper:
 **"Malicious and Malformed Packet Detection"**  
 _Aryan Deshmukh, 2024_
 
-📥 [Read the full paper (Journal Link)]([https://your-journal-link.com](https://smdjournal.com/archives/2024/2406022-packetanalysis-for-malicious-activity-detection.php))
+📥 **Read the full paper** | (https://smdjournal.com/archives/2024/2406022-packetanalysis-for-malicious-activity-detection.php)
 
 ---
 
@@ -67,4 +67,4 @@ _Aryan Deshmukh, 2024_
 
 **Aryan Deshmukh**
 
-🔗 [LinkedIn]([https://www.linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/aryan-deshmukh-0531321b6)) | 💻 [GitHub](https://github.com/ColonialCreature)
+🔗 [LinkedIn](https://www.linkedin.com/in/aryan-deshmukh-0531321b6) | 💻 [GitHub](https://github.com/ColonialCreature)
